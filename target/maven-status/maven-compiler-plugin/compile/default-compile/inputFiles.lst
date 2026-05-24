@@ -1,0 +1,11 @@
+/home/nini/voicerserver/src/main/java/com/volc/voice/server/LocalServer.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/protocol/EventType.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/protocol/MessageType.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/ogg/OggDemuxer.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/asr/AucAsrClient.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/asr/VolcAsrClient.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/protocol/MessageCodec.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/protocol/Message.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/protocol/ProtocolHelper.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/VoiceServerApp.java
+/home/nini/voicerserver/src/main/java/com/volc/voice/tts/VolcTtsClient.java
